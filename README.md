@@ -1,5 +1,5 @@
 Project : JapanJobHub 
-Link: (https://japan-job-hub.web.app/)
+   Link: (https://japan-job-hub.web.app/)
 
 Overview:
 This project encompasses the creation of a dynamic website aimed at facilitating job seekers in finding opportunities in Japan. Developed using HTML, CSS,SCSS, Bootstrap, and JavaScript, with integration of the Google Translation API for multilingual support, the website offers six distinct pages: Home, About Japan, Job-list, Job-detail, Category, and Contact Us. The deployment has been carried out using Firebase hosting, making the website accessible to users via the provided link.
